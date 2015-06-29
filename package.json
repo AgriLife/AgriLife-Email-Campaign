@@ -1,0 +1,13 @@
+{
+  "name": "agrilife-email-campaign",
+  "version": "1.0.0",
+  "description": "Email campaign script for administration mode of AgriLife websites",
+  "main": "agrilife-county-locator.php",
+  "scripts": {
+    "test": "phpunit"
+  },
+  "repository": "https://github.com/agrilife/agrilife-email-campaign",
+  "author": "Zachary Watkins",
+  "license": "GPL2+",
+  "devDependencies": {}
+}
